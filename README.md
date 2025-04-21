@@ -1,16 +1,61 @@
-# flix_app
+# Flix App – UI Demo
 
-A new Flutter project.
+A stylish Flutter UI demo inspired by movie streaming apps like Netflix.  
+This is a **UI-only** project focused on design and layout, without backend or dynamic content.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Overview
 
-A few resources to get you started if this is your first Flutter project:
+The demo includes UI screens typically seen in movie and streaming apps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Home screen with featured movies
+- Movie categories and genres
+- Movie detail pages
+- Cast, trailers, and watchlist previews
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔍 Status
+
+**Demo only** – No backend integration or working functionality.
+
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="ScreenShots/1.jpg" width="220"/></td>
+    <td><img src="ScreenShots/2.jpg" width="220"/></td>
+    <td><img src="ScreenShots/3.jpg" width="220"/></td>
+    <td><img src="ScreenShots/4.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/5.jpg" width="220"/></td>
+    <td><img src="ScreenShots/6.jpg" width="220"/></td>
+    <td><img src="ScreenShots/7.jpg" width="220"/></td>
+    <td></td>
+
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/9.jpg" width="220"/></td>
+    <td><img src="ScreenShots/10.jpg" width="220"/></td>
+    <td><img src="ScreenShots/8.jpg" width="220"/></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+## 📝 Notes
+
+- Built entirely with Flutter
+- Smooth and cinematic UI elements
+- A solid starting point for any streaming or movie-based app
+
+---
+
+## ✍️ Created by
+
+**Mohamed Ebrahim**
